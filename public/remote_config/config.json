@@ -3,7 +3,7 @@
     {
       "radio_name": "CMF Radio",
       "radio_genre": "Lo escuchas...lo disfrutas",
-      "radio_url": "https://srv2.radiostreamuy.com:8130/stream",
+      "radio_url": "https://srv1.radiostreamuy.com/listen/cmf-radio/stream",
       "radio_image_url": "https://app.cmfradio.online/img/radio-image.png",
       "background_image_url": "https://app.cmfradio.online/img/bg_radio.jpg"
     }
