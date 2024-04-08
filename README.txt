@@ -1,1 +1,0 @@
-Configuración remota de la aplicación Android de CMF RADIO
